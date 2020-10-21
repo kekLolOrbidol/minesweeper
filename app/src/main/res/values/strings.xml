@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Битвa Mатч</string>
+    <string name="action_new_game">New game</string>
+    <string name="beginner">Beginner</string>
+    <string name="intermediate">Intermediate</string>
+    <string name="expert">Expert</string>
+    <string name="you_win">You win!</string>
+    <string name="you_lose">You lose!</string>
+    <string name="facebook_app_id">1135034753614049</string> <string name="fb_login_protocol_scheme">fb1135034753614049</string>
+
+</resources>
